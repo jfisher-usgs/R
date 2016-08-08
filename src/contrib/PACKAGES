@@ -1,0 +1,16 @@
+Package: ObsNetwork
+Version: 1.0.0
+Depends: R (>= 3.2), sp, rgdal, gstat, raster
+Imports: methods, tcltk, GA
+License: CC0
+MD5sum: 659ae497ddf39a733b4cfada80051dde
+NeedsCompilation: no
+
+Package: Trends
+Version: 1.0.0
+Depends: R (>= 3.1)
+Imports: survival
+Suggests: sp, rgdal, knitr
+License: CC0
+MD5sum: 8f35bebe83215b4c8754d77f47511432
+NeedsCompilation: no
