@@ -7,10 +7,10 @@ MD5sum: 659ae497ddf39a733b4cfada80051dde
 NeedsCompilation: no
 
 Package: Trends
-Version: 1.0.0
+Version: 1.1.0
 Depends: R (>= 3.1)
 Imports: survival
 Suggests: sp, rgdal, knitr
 License: CC0
-MD5sum: 8f35bebe83215b4c8754d77f47511432
+MD5sum: e3004e005609b6c29a33b2aec3c94238
 NeedsCompilation: no

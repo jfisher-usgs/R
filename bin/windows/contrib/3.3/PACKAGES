@@ -5,7 +5,7 @@ Imports: methods, tcltk, GA
 License: CC0
 
 Package: Trends
-Version: 1.0.0
+Version: 1.1.0
 Depends: R (>= 3.1)
 Imports: survival
 Suggests: sp, rgdal, knitr
