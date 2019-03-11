@@ -1,0 +1,18 @@
+Package: ObsNetwork
+Version: 1.0.1
+Depends: R (>= 3.2), sp, rgdal, gstat, raster
+Imports: methods, tcltk, GA
+License: CC0
+
+Package: RNWIS
+Version: 0.1.8
+Depends: R (>= 3.2)
+Imports: brew, rgdal, rgeos, RODBC, Rook, sp, tcltk
+License: CC0
+
+Package: Trends
+Version: 1.1.2
+Depends: R (>= 3.2)
+Imports: survival
+Suggests: sp, rgdal, knitr
+License: CC0
